@@ -1,0 +1,3 @@
+python-telegram-bot==20.0  # Replace with the version you are using
+python-dotenv==0.20.0  # For loading environment variables from .env
+requests==2.26.0  # If you are making HTTP requests
